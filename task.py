@@ -1,4 +1,3 @@
-
 import warnings
 from urllib3.exceptions import NotOpenSSLWarning
 
